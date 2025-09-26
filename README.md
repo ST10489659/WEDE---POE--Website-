@@ -12,6 +12,8 @@ The Haven Night Shelter website is a contemporary, flexible platform that aims t
 
 Content document:
 
+Content document.docx
+
 Document:
 
 [Content document link](https://advtechonline-my.sharepoint.com/:w:/g/personal/st10489659_vcconnect_edu_za/EaE0X3OZVVpPoj1nzRgrcCIBYO91QV2H0grgMvRdFxzLVg?e=jRBUgt)
