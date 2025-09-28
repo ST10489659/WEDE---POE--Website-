@@ -1,7 +1,6 @@
 # Web Development POE - ST10489659 / Yan Ritha Umumararungu Uwamariya
 
-GitHub link of repo: [https://github.com/ST10489659/WEDE---POE--Website-?tab=readme-ov-file](https://github.com/ST10489659/WEDE---POE--Website-?tab=readme-ov-file)]
-
+GitHub link of repo: [[https://github.com/ST10489659/WEDE---POE--Website-?tab=readme-ov-file]([https://github.com/VCCT-WEDE5020-2025-G1/WEDE---POE--Website-.git])]
 Organisation Overview
 
 The Haven Night Shelter is a registered non-profit organisation in South Africa dedicated to providing temporary shelter and support to homeless adults. With 15 shelters across Cape Town and surrounding areas, the organisation focuses on physical care, social services, personal development, and family reunification, aiming to transition clients from street life to stable homes.
