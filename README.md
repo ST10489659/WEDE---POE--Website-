@@ -1,6 +1,6 @@
 # Web Development POE - ST10489659 / Yan Ritha Umumararungu Uwamariya
 
-GitHub link of repo: [https://github.com/ST10489659/WED---WEBSITE](https://github.com/ST10489659/WED---WEBSITE)
+GitHub link of repo: [[https://github.com/ST10489659/WED---WEBSITE](https://github.com/ST10489659/WEDE---POE--Website-)](https://github.com/ST10489659/WED---WEBSITE)
 
 Organisation Overview
 
